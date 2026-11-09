@@ -3,9 +3,8 @@
 
 ### Desenvolvedor Web Júnior | JavaScript | React | Node.js
 
-🇧🇷 Português | 🇺🇸 English
 
-🇧🇷 Português
+# 🇧🇷 Português
 
 Sou Desenvolvedor Web Full Stack com foco na construção de soluções tecnológicas para problemas reais.
 
@@ -56,7 +55,8 @@ Estudando arquitetura de software e desenvolvimento de aplicações.
 
 ⭐ Sempre aprendendo, desenvolvendo e evoluindo.
 
-🇺🇸 English
+# 🇺🇸 English
+
 I am a Full Stack Web Developer focused on building technology solutions to solve real-world problems.
 
 I have practical experience with JavaScript, React, Node.js, Express, REST APIs, SQL, Git, and GitHub.
